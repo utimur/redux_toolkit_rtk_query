@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "UPDATED TITLE",
+      "body": "typicode"
+    },
+    {
+      "id": 5,
+      "title": "json-server 5",
+      "body": "typicode"
+    },
+    {
+      "id": 6,
+      "title": "UPDATED TUTLE 6",
+      "body": "typicode"
+    },
+    {
+      "id": 8,
+      "title": "json-server 8",
+      "body": "typicode"
+    },
+    {
+      "id": 9,
+      "title": "json-server 9",
+      "body": "typicode"
+    },
+    {
+      "id": 10,
+      "title": "json-server 10",
+      "body": "typicode"
+    },
+    {
+      "id": 11,
+      "title": "json-server 11",
+      "body": "typicode"
+    },
+    {
+      "title": "123123",
+      "body": "123123",
+      "id": 12
+    },
+    {
+      "title": "NEW POST",
+      "body": "NEW POST",
+      "id": 14
+    },
+    {
+      "title": "123123",
+      "body": "123123",
+      "id": 16
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

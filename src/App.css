@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.post__list {
+  width: 100%;
+  padding: 20px;
+}
+
+.user {
+  padding: 20px;
+  border: 1px solid orange;
+  margin-top: 15px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.w100 {
+  width: 100%;
+}
+
+.post {
+  padding: 20px;
+  border: 1px solid teal;
+  margin-top: 15px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
